@@ -10,4 +10,4 @@
 
 <!-- The-Focus-AI repo activity -->
 
-![example workflow](https://github.com/The-Focus-AI/.profile/actions/workflows/build.yml/badge.svg)
+![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
