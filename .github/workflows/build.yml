@@ -4,6 +4,8 @@ on:
   workflow_dispatch: # This lets you trigger the workflow manually
   schedule:
     - cron: "0 * * * *"
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
