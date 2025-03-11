@@ -1,0 +1,29 @@
+name: Build Readme
+on:
+  push:
+  workflow_dispatch: # This lets you trigger the workflow manually
+  schedule:
+    - cron: "0 * * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3" # Not needed with a `.ruby-version` or `.tool-versions`
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      - run: bundle exec ruby generate.rb
+        env:
+          GH_TOKEN: ${{ secrets.WILL_TOKEN }} # This is from gh-auth-token and set in the repo secrets
+      - name: Commit and push if README changed
+        run: |-
+          git pull origin main
+          git diff
+          git config --global user.email "readme-bot@example.com"
+          git config --global user.name "README-bot"
+          git add README.md
+          git commit -m "Updated content" || exit 0
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
