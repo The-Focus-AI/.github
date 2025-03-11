@@ -15,7 +15,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - run: bundle exec ruby generate.rb
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # This is from gh-auth-token and set in the repo secrets
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This is from gh-auth-token and set in the repo secrets
       - name: Commit and push if README changed
         run: |-
           git pull origin main
