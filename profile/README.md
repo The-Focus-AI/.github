@@ -23,4 +23,4 @@
  - 2025-03-09: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
  - 2025-03-04: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - basic prompt library
 
-![example workflow](https://github.com/The-Focus-AI/The-Focus-AI/actions/workflows/build.yml/badge.svg)
+![example workflow](https://github.com/The-Focus-AI/.profile/actions/workflows/build.yml/badge.svg)
