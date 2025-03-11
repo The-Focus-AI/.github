@@ -9,6 +9,7 @@ template = File.read("TEMPLATE.md")
 
 template.gsub!( /<!-- (.*) repo activity -->/  ) do |match|
   puts "Replacing #{$1} repo activity"
+  puts ENV['GH_TOKEN']
   activity_json = `gh repo list --json nameWithOwner,description,updatedAt --source --visibility public #{$1}`
   activity = JSON.parse(activity_json).filter do |repo|
     repo["nameWithOwner"] != 'The-Focus-AI/.github'
