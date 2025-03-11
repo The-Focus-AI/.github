@@ -1,6 +1,6 @@
 # The Focus AI
 
-![logo](./img/thefocusai.png)
+![logo](../img/thefocusai.png)
 
 ## Latest thefocus.ai posts
 

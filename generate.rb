@@ -31,7 +31,7 @@ template.gsub!(/<!-- feed: (.*) -->/ ) do |match|
   posts
 end
 
+system( "mkdir -p profile")
 puts "Writing to README.md"
-File.write("README.md", template)
+File.write("profile/README.md", template)
 
-# system("cat README.md")
