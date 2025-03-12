@@ -17,7 +17,7 @@
 
 ## Latest Focus Repo activity
 
- - 2025-03-11: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
+ - 2025-03-12: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
  - 2025-03-11: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-03-11: [The-Focus-AI/warc_viewer](https://github.com/The-Focus-AI/warc_viewer) - View cdx and warc files, caching them locally as needed
  - 2025-03-11: [The-Focus-AI/deployment-notification](https://github.com/The-Focus-AI/deployment-notification) - Supabase Function that gets a vercel webhook and sends a telegram message
