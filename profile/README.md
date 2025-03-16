@@ -18,7 +18,7 @@
 
 ## Latest Focus Repo activity
 
- - 2025-03-15: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
+ - 2025-03-16: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-03-15: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - basic prompt library
  - 2025-03-15: [The-Focus-AI/tezlab-cli](https://github.com/The-Focus-AI/tezlab-cli) - CLI and ModelContextProtocol interface to tezlab
  - 2025-03-12: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
