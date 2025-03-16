@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-03-16: [Extracting requirements](https://thefocus.ai/recipies/extracting-requirements/)
  - 2025-03-15: [Exposing Services with MCP](https://thefocus.ai/posts/exposing-services-with-mcp/)
  - 2025-03-15: [Making Meta Data](https://thefocus.ai/recipies/making-meta-data/)
  - 2025-03-15: [Write git-commit-messages](https://thefocus.ai/recipies/git-commit-messages/)
@@ -14,7 +15,6 @@
  - 2025-02-11: [The New Touch Interface](https://thefocus.ai/posts/the-new-touch-interface/)
  - 2025-01-30: [Tools for thinking.  Everyday AI.](https://thefocus.ai/posts/tools-for-thinking/)
  - 2025-01-21: [How I classify models](https://thefocus.ai/posts/how-i-classify-models/)
- - 2025-01-12: [AI for research: DeepResearch a clear winner](https://thefocus.ai/posts/ai-for-research-deepresearch-wins/)
 
 ## Latest Focus Repo activity
 
