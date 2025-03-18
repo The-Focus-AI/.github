@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-03-18: [Recipes big and small](https://thefocus.ai/recipies/)
  - 2025-03-18: [Superwhisper for input](https://thefocus.ai/recipies/superwhisper/)
  - 2025-03-18: [Talking to the models in the car](https://thefocus.ai/recipies/talking-in-the-car/)
  - 2025-03-16: [Extracting requirements](https://thefocus.ai/recipies/extracting-requirements/)
@@ -14,7 +15,6 @@
  - 2025-03-14: [Understanding a code base](https://thefocus.ai/recipies/understanding-a-codebase/)
  - 2025-03-07: [Agentic YOLO with Warp, Cursor, and Claude](https://thefocus.ai/posts/agentic-yolo-with-warp-cursor-and-claude/)
  - 2025-02-25: [Clipboards are eating the world](https://thefocus.ai/posts/clipboards-are-eating-the-world/)
- - 2025-02-11: [The New Touch Interface](https://thefocus.ai/posts/the-new-touch-interface/)
 
 ## Latest Focus Repo activity
 
