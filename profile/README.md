@@ -18,6 +18,8 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-03-21: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - 
+ - 2025-03-21: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - 
  - 2025-03-21: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - basic prompt library
  - 2025-03-21: [The-Focus-AI/buttondown-mcp](https://github.com/The-Focus-AI/buttondown-mcp) - ModelContextProtocal server for interacting with buttondown
  - 2025-03-21: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
@@ -27,6 +29,5 @@
  - 2025-03-17: [The-Focus-AI/tezlab-cli](https://github.com/The-Focus-AI/tezlab-cli) - CLI and ModelContextProtocol interface to tezlab
  - 2025-03-12: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
  - 2025-03-11: [The-Focus-AI/warc_viewer](https://github.com/The-Focus-AI/warc_viewer) - View cdx and warc files, caching them locally as needed
- - 2025-03-11: [The-Focus-AI/deployment-notification](https://github.com/The-Focus-AI/deployment-notification) - Supabase Function that gets a vercel webhook and sends a telegram message
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
