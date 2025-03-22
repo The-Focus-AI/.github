@@ -18,6 +18,7 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-03-22: [The-Focus-AI/asciiwebcam](https://github.com/The-Focus-AI/asciiwebcam) - 
  - 2025-03-21: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
  - 2025-03-21: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
  - 2025-03-21: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - basic prompt library
@@ -28,6 +29,5 @@
  - 2025-03-18: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
  - 2025-03-17: [The-Focus-AI/tezlab-cli](https://github.com/The-Focus-AI/tezlab-cli) - CLI and ModelContextProtocol interface to tezlab
  - 2025-03-12: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
- - 2025-03-11: [The-Focus-AI/warc_viewer](https://github.com/The-Focus-AI/warc_viewer) - View cdx and warc files, caching them locally as needed
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
