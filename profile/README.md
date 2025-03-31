@@ -4,6 +4,8 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-03-31: [[Recipe] Claude to write midjourney prompts](https://thefocus.ai/recipes/using-claude-to-write-midjourney-prompts/)
+ - 2025-03-30: [Schema-Driven AI: Better User Experiences with Structured Output](https://thefocus.ai/posts/using-structured-output/)
  - 2025-03-24: [Moral Vibe Check](https://thefocus.ai/posts/moral-vibe-check/)
  - 2025-03-21: [Image Gen on Apple Silicon](https://thefocus.ai/use-cases/flux-images/)
  - 2025-03-20: [[Recipe] Adding Memory to Cursor](https://thefocus.ai/recipes/add-memory-to-cursor/)
@@ -13,13 +15,11 @@
  - 2025-03-18: [[Recipe] Superwhisper for input](https://thefocus.ai/recipes/superwhisper/)
  - 2025-03-18: [[Recipe] Talking to the models in the car](https://thefocus.ai/recipes/talking-in-the-car/)
  - 2025-03-16: [[Recipe] Extracting requirements](https://thefocus.ai/recipes/extracting-requirements/)
- - 2025-03-15: [Exposing Services with MCP](https://thefocus.ai/posts/exposing-services-with-mcp/)
- - 2025-03-15: [[Recipe] Write git-commit-messages](https://thefocus.ai/recipes/git-commit-messages/)
 
 ## Latest Focus Repo activity
 
+ - 2025-03-31: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-03-30: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
- - 2025-03-30: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-03-29: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2025-03-26: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - 
  - 2025-03-26: [The-Focus-AI/asciiwebcam](https://github.com/The-Focus-AI/asciiwebcam) - See your webcam in your terminal
