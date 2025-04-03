@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-04-03: [[Recipe] Use the llm cli for quick prototyping](https://thefocus.ai/recipes/llm-for-quick-prototyping/)
  - 2025-04-02: [[Recipe] Lift and shift](https://thefocus.ai/recipes/lift-and-shift/)
  - 2025-03-31: [[Recipe] Claude to write midjourney prompts](https://thefocus.ai/recipes/using-claude-to-write-midjourney-prompts/)
  - 2025-03-30: [Schema-Driven AI: Better User Experiences with Structured Output](https://thefocus.ai/posts/using-structured-output/)
@@ -14,15 +15,14 @@
  - 2025-03-19: [[Recipe] Make it easy to load and update your prompt library](https://thefocus.ai/recipes/load-and-save-your-prompts/)
  - 2025-03-18: [Recipes big and small](https://thefocus.ai/recipes/)
  - 2025-03-18: [[Recipe] Superwhisper for input](https://thefocus.ai/recipes/superwhisper/)
- - 2025-03-18: [[Recipe] Talking to the models in the car](https://thefocus.ai/recipes/talking-in-the-car/)
 
 ## Latest Focus Repo activity
 
+ - 2025-04-02: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - 
  - 2025-04-02: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-04-02: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
  - 2025-03-30: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
  - 2025-03-29: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
- - 2025-03-26: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - 
  - 2025-03-26: [The-Focus-AI/asciiwebcam](https://github.com/The-Focus-AI/asciiwebcam) - See your webcam in your terminal
  - 2025-03-24: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
  - 2025-03-23: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
