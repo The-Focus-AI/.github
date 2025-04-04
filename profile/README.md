@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-04-04: [Thoughts on gemini](https://thefocus.ai/posts/thoughts-on-gemini/)
  - 2025-04-03: [[Recipe] Use the llm cli for quick prototyping](https://thefocus.ai/recipes/llm-for-quick-prototyping/)
  - 2025-04-02: [[Recipe] Lift and shift](https://thefocus.ai/recipes/lift-and-shift/)
  - 2025-03-31: [[Recipe] Claude to write midjourney prompts](https://thefocus.ai/recipes/using-claude-to-write-midjourney-prompts/)
@@ -14,7 +15,6 @@
  - 2025-03-20: [[Recipe] Planning, brainstorming and idea development](https://thefocus.ai/recipes/product-ideation/)
  - 2025-03-19: [[Recipe] Make it easy to load and update your prompt library](https://thefocus.ai/recipes/load-and-save-your-prompts/)
  - 2025-03-18: [Recipes big and small](https://thefocus.ai/recipes/)
- - 2025-03-18: [[Recipe] Superwhisper for input](https://thefocus.ai/recipes/superwhisper/)
 
 ## Latest Focus Repo activity
 
