@@ -18,6 +18,7 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-04-05: [The-Focus-AI/transcriber-supabase](https://github.com/The-Focus-AI/transcriber-supabase) - 
  - 2025-04-03: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - 
  - 2025-04-02: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-04-02: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
@@ -28,6 +29,5 @@
  - 2025-03-23: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
  - 2025-03-29: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-03-23: [The-Focus-AI/buttondown-mcp](https://github.com/The-Focus-AI/buttondown-mcp) - ModelContextProtocal server for interacting with buttondown
- - 2025-03-21: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
