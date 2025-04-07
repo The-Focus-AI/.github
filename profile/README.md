@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-04-07: [[Recipe] Iterating designs with Chat GPT 4o](https://thefocus.ai/recipes/iterating-designs-with-chatgpt4o/)
  - 2025-04-04: [Thoughts on gemini](https://thefocus.ai/posts/thoughts-on-gemini/)
  - 2025-04-03: [[Recipe] Use the llm cli for quick prototyping](https://thefocus.ai/recipes/llm-for-quick-prototyping/)
  - 2025-04-02: [[Recipe] Lift and shift](https://thefocus.ai/recipes/lift-and-shift/)
@@ -14,14 +15,13 @@
  - 2025-03-20: [[Recipe] Adding Memory to Cursor](https://thefocus.ai/recipes/add-memory-to-cursor/)
  - 2025-03-20: [[Recipe] Planning, brainstorming and idea development](https://thefocus.ai/recipes/product-ideation/)
  - 2025-03-19: [[Recipe] Make it easy to load and update your prompt library](https://thefocus.ai/recipes/load-and-save-your-prompts/)
- - 2025-03-18: [Recipes big and small](https://thefocus.ai/recipes/)
 
 ## Latest Focus Repo activity
 
+ - 2025-04-07: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-04-07: [The-Focus-AI/transcriber-supabase](https://github.com/The-Focus-AI/transcriber-supabase) - 
  - 2025-04-06: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
  - 2025-04-03: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - 
- - 2025-04-02: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-03-30: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
  - 2025-03-29: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2025-03-26: [The-Focus-AI/asciiwebcam](https://github.com/The-Focus-AI/asciiwebcam) - See your webcam in your terminal
