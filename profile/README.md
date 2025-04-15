@@ -18,7 +18,7 @@
 
 ## Latest Focus Repo activity
 
- - 2025-04-12: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - comprehensive model/prompt evaluation framework
+ - 2025-04-15: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - comprehensive model/prompt evaluation framework
  - 2025-04-11: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
  - 2025-04-10: [The-Focus-AI/transcriber-supabase](https://github.com/The-Focus-AI/transcriber-supabase) - supabase functions to download and transcribe large audiofiles
  - 2025-04-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
