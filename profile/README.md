@@ -18,7 +18,8 @@
 
 ## Latest Focus Repo activity
 
- - 2025-04-18: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - comprehensive model/prompt evaluation framework
+ - 2025-04-23: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
+ - 2025-04-23: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - comprehensive model/prompt evaluation framework
  - 2025-04-11: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
  - 2025-04-10: [The-Focus-AI/transcriber-supabase](https://github.com/The-Focus-AI/transcriber-supabase) - supabase functions to download and transcribe large audiofiles
  - 2025-04-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
@@ -28,6 +29,5 @@
  - 2025-03-30: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
  - 2025-03-29: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2025-03-26: [The-Focus-AI/asciiwebcam](https://github.com/The-Focus-AI/asciiwebcam) - See your webcam in your terminal
- - 2025-03-24: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
