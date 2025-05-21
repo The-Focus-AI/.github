@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-05-21: [Report from Microsoft Build 2025](https://thefocus.ai/posts/microsoft-build-2025/)
  - 2025-04-07: [[Recipe] Iterating designs with Chat GPT 4o](https://thefocus.ai/recipes/iterating-designs-with-chatgpt4o/)
  - 2025-04-04: [Thoughts on gemini](https://thefocus.ai/posts/thoughts-on-gemini/)
  - 2025-04-03: [[Recipe] Use the llm cli for quick prototyping](https://thefocus.ai/recipes/llm-for-quick-prototyping/)
@@ -14,15 +15,14 @@
  - 2025-03-21: [Image Gen on Apple Silicon](https://thefocus.ai/use-cases/flux-images/)
  - 2025-03-20: [[Recipe] Adding Memory to Cursor](https://thefocus.ai/recipes/add-memory-to-cursor/)
  - 2025-03-20: [[Recipe] Planning, brainstorming and idea development](https://thefocus.ai/recipes/product-ideation/)
- - 2025-03-19: [[Recipe] Make it easy to load and update your prompt library](https://thefocus.ai/recipes/load-and-save-your-prompts/)
 
 ## Latest Focus Repo activity
 
+ - 2025-05-21: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-04-23: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
  - 2025-04-23: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - comprehensive model/prompt evaluation framework
  - 2025-04-11: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
  - 2025-04-10: [The-Focus-AI/transcriber-supabase](https://github.com/The-Focus-AI/transcriber-supabase) - supabase functions to download and transcribe large audiofiles
- - 2025-04-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-04-08: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
  - 2025-05-07: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-04-06: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
