@@ -4,6 +4,8 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-05-28: [[Recipe] Content Finder](https://thefocus.ai/recipes/content-finder/)
+ - 2025-05-28: [[Recipe] Geolocation Prompt](https://thefocus.ai/recipes/geolocation-prompt/)
  - 2025-05-21: [Report from Microsoft Build 2025](https://thefocus.ai/posts/microsoft-build-2025/)
  - 2025-04-07: [[Recipe] Iterating designs with Chat GPT 4o](https://thefocus.ai/recipes/iterating-designs-with-chatgpt4o/)
  - 2025-04-04: [Thoughts on gemini](https://thefocus.ai/posts/thoughts-on-gemini/)
@@ -13,8 +15,6 @@
  - 2025-03-30: [Schema-Driven AI: Better User Experiences with Structured Output](https://thefocus.ai/posts/using-structured-output/)
  - 2025-03-24: [Moral Vibe Check](https://thefocus.ai/posts/moral-vibe-check/)
  - 2025-03-21: [Image Gen on Apple Silicon](https://thefocus.ai/use-cases/flux-images/)
- - 2025-03-20: [[Recipe] Adding Memory to Cursor](https://thefocus.ai/recipes/add-memory-to-cursor/)
- - 2025-03-20: [[Recipe] Planning, brainstorming and idea development](https://thefocus.ai/recipes/product-ideation/)
 
 ## Latest Focus Repo activity
 
