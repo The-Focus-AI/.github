@@ -18,16 +18,16 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-06-05: [The-Focus-AI/idears-cursor](https://github.com/The-Focus-AI/idears-cursor) - 
+ - 2025-06-05: [The-Focus-AI/idears-roocode](https://github.com/The-Focus-AI/idears-roocode) - 
+ - 2025-06-05: [The-Focus-AI/idears-aider](https://github.com/The-Focus-AI/idears-aider) - 
+ - 2025-06-05: [The-Focus-AI/idears-claude](https://github.com/The-Focus-AI/idears-claude) - 
+ - 2025-06-05: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - 
  - 2025-06-04: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-05-30: [The-Focus-AI/warc_viewer](https://github.com/The-Focus-AI/warc_viewer) - View cdx and warc files, caching them locally as needed
  - 2025-05-28: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-04-23: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
  - 2025-04-23: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - comprehensive model/prompt evaluation framework
  - 2025-04-11: [The-Focus-AI/specialist](https://github.com/The-Focus-AI/specialist) - Framework for building LLM tools in typescript
- - 2025-04-10: [The-Focus-AI/transcriber-supabase](https://github.com/The-Focus-AI/transcriber-supabase) - supabase functions to download and transcribe large audiofiles
- - 2025-04-08: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
- - 2025-04-06: [The-Focus-AI/podcast-collaborator](https://github.com/The-Focus-AI/podcast-collaborator) - 
- - 2025-03-30: [The-Focus-AI/pocketcast-collaborator](https://github.com/The-Focus-AI/pocketcast-collaborator) - Pull down the podcasts you've listened to, search and transcribe them
- - 2025-03-29: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
