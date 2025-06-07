@@ -18,8 +18,9 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-06-07: [The-Focus-AI/idears-windsurf](https://github.com/The-Focus-AI/idears-windsurf) - 
  - 2025-06-07: [The-Focus-AI/idears-warp](https://github.com/The-Focus-AI/idears-warp) - 
- - 2025-06-06: [The-Focus-AI/idears-copilot](https://github.com/The-Focus-AI/idears-copilot) - 
+ - 2025-06-07: [The-Focus-AI/idears-copilot](https://github.com/The-Focus-AI/idears-copilot) - June 2025 Agent Shootout -- Micro Copilot
  - 2025-06-06: [The-Focus-AI/idears-codex-agent](https://github.com/The-Focus-AI/idears-codex-agent) - 
  - 2025-06-06: [The-Focus-AI/idears-cursor-agent](https://github.com/The-Focus-AI/idears-cursor-agent) - 
  - 2025-06-05: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - 
@@ -28,6 +29,5 @@
  - 2025-06-05: [The-Focus-AI/idears-roocode](https://github.com/The-Focus-AI/idears-roocode) - 
  - 2025-06-05: [The-Focus-AI/idears-aider](https://github.com/The-Focus-AI/idears-aider) - 
  - 2025-06-05: [The-Focus-AI/idears-claude](https://github.com/The-Focus-AI/idears-claude) - 
- - 2025-06-04: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
