@@ -18,6 +18,7 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-06-08: [The-Focus-AI/discord-feed](https://github.com/The-Focus-AI/discord-feed) - 
  - 2025-06-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-06-08: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-06-07: [The-Focus-AI/idears-warp](https://github.com/The-Focus-AI/idears-warp) - June 25 Agent Evaluation
@@ -28,6 +29,5 @@
  - 2025-06-07: [The-Focus-AI/idears-codex](https://github.com/The-Focus-AI/idears-codex) - June 25 Agent Evaluation
  - 2025-06-07: [The-Focus-AI/idears-claude](https://github.com/The-Focus-AI/idears-claude) - June 25 Agent Evaluation
  - 2025-06-07: [The-Focus-AI/idears-aider](https://github.com/The-Focus-AI/idears-aider) - June 25 Agent Evaluation
- - 2025-06-07: [The-Focus-AI/idears-windsurf](https://github.com/The-Focus-AI/idears-windsurf) - 
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
