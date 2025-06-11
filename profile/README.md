@@ -18,6 +18,8 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-06-11: [The-Focus-AI/idears-copilot-plus](https://github.com/The-Focus-AI/idears-copilot-plus) - 
+ - 2025-06-11: [The-Focus-AI/idears-copilot](https://github.com/The-Focus-AI/idears-copilot) - June 25 Agent Evaluation
  - 2025-06-11: [The-Focus-AI/idears-codex-agent](https://github.com/The-Focus-AI/idears-codex-agent) - June 25 Agent Evaluation
  - 2025-06-11: [The-Focus-AI/idears-codex](https://github.com/The-Focus-AI/idears-codex) - June 25 Agent Evaluation
  - 2025-06-11: [The-Focus-AI/idears-claude](https://github.com/The-Focus-AI/idears-claude) - June 25 Agent Evaluation
@@ -27,7 +29,5 @@
  - 2025-06-08: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-06-07: [The-Focus-AI/idears-warp](https://github.com/The-Focus-AI/idears-warp) - June 25 Agent Evaluation
  - 2025-06-07: [The-Focus-AI/idears-roocode](https://github.com/The-Focus-AI/idears-roocode) - June 25 Agent Evaluation
- - 2025-06-07: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - June 25 Agent Evaluation
- - 2025-06-07: [The-Focus-AI/idears-cursor](https://github.com/The-Focus-AI/idears-cursor) - June 25 Agent Evaluation
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
