@@ -18,16 +18,16 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-06-24: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
+ - 2025-06-24: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2025-06-23: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-06-20: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-06-19: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
- - 2025-06-15: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-06-15: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
  - 2025-06-13: [The-Focus-AI/idears-replit](https://github.com/The-Focus-AI/idears-replit) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-windsurf](https://github.com/The-Focus-AI/idears-windsurf) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-warp](https://github.com/The-Focus-AI/idears-warp) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-v0](https://github.com/The-Focus-AI/idears-v0) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-roocode](https://github.com/The-Focus-AI/idears-roocode) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - June 25 Agent Evaluation
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
