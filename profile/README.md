@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-06-25: [Don't be passive aggressive with your agents](https://thefocus.ai/posts/dont-be-passive-aggressive/)
  - 2025-06-08: [Feature Development on the go](https://thefocus.ai/posts/feature-development-on-the-go/)
  - 2025-06-02: [Geo-affordance](https://thefocus.ai/posts/geo-affordance/)
  - 2025-05-28: [[Recipe] Content Finder](https://thefocus.ai/recipes/content-finder/)
@@ -14,14 +15,13 @@
  - 2025-04-03: [[Recipe] Use the llm cli for quick prototyping](https://thefocus.ai/recipes/llm-for-quick-prototyping/)
  - 2025-04-02: [[Recipe] Lift and shift](https://thefocus.ai/recipes/lift-and-shift/)
  - 2025-03-31: [[Recipe] Claude to write midjourney prompts](https://thefocus.ai/recipes/using-claude-to-write-midjourney-prompts/)
- - 2025-03-30: [Schema-Driven AI: Better User Experiences with Structured Output](https://thefocus.ai/posts/using-structured-output/)
 
 ## Latest Focus Repo activity
 
+ - 2025-06-25: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-06-25: [The-Focus-AI/registry](https://github.com/The-Focus-AI/registry) - A public registry and website for shadcn/ui components. Discover, share, and install reusable UI blocks for your projects.
  - 2025-06-24: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-06-24: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
- - 2025-06-23: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-06-20: [The-Focus-AI/model-eval](https://github.com/The-Focus-AI/model-eval) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-06-19: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
  - 2025-06-15: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
