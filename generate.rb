@@ -7,12 +7,15 @@ require 'date'
 
 template = File.read("TEMPLATE.md")
 
-template.gsub!( /<!-- (.*) repo activity -->/  ) do |match|
+template.gsub!( /<!-- (.*) repo activity (.*)-->/  ) do |match|
   puts "Replacing #{$1} repo activity"
-  activity_json = `gh repo list --json nameWithOwner,description,updatedAt --source --visibility public #{$1}`
+  puts "Filtering #{$2}"
+  activity_json = `gh repo list --json nameWithOwner,description,updatedAt --source --visibility public --limit 1000 #{$1}`
   puts activity_json
   activity = JSON.parse(activity_json).filter do |repo|
-    repo["nameWithOwner"] != 'The-Focus-AI/.github'
+    next false if repo["nameWithOwner"] == 'The-Focus-AI/.github'
+    next true if $2.nil? || $2.strip.empty?
+    repo["nameWithOwner"].include?($2.strip)
   end[0..10].collect do |repo|
     date = DateTime.parse(repo["updatedAt"]).strftime("%Y-%m-%d")
     " - #{date}: [#{repo["nameWithOwner"]}](https://github.com/#{repo["nameWithOwner"]}) - #{repo["description"]}"

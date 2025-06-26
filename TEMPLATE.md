@@ -6,6 +6,10 @@
 
 <!-- feed: https://thefocus.ai/rss.xml -->
 
+## Our MCP Servers
+
+<!-- The-Focus-AI repo activity -mcp -->
+
 ## Latest Focus Repo activity
 
 <!-- The-Focus-AI repo activity -->
