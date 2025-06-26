@@ -12,11 +12,19 @@ template.gsub!( /<!-- (.*) repo activity (.*)-->/  ) do |match|
   puts "Filtering #{$2}"
   activity_json = `gh repo list --json nameWithOwner,description,updatedAt --source --visibility public --limit 1000 #{$1}`
   puts activity_json
+  thirty_days_ago = Date.today - 30
   activity = JSON.parse(activity_json).filter do |repo|
     next false if repo["nameWithOwner"] == 'The-Focus-AI/.github'
-    next true if $2.nil? || $2.strip.empty?
-    repo["nameWithOwner"].include?($2.strip)
-  end[0..10].collect do |repo|
+    if $2.nil? || $2.strip.empty?
+      # For non-filtered results, only show recent activity (last 30 days)
+      repo_date = Date.parse(repo["updatedAt"])
+      next false if repo_date < thirty_days_ago
+      next true
+    else
+      # For filtered results, show all matching repos regardless of date
+      repo["nameWithOwner"].include?($2.strip)
+    end
+  end.sort_by { |repo| Date.parse(repo["updatedAt"]) }.reverse.collect do |repo|
     date = DateTime.parse(repo["updatedAt"]).strftime("%Y-%m-%d")
     " - #{date}: [#{repo["nameWithOwner"]}](https://github.com/#{repo["nameWithOwner"]}) - #{repo["description"]}"
   end.join("\n")
