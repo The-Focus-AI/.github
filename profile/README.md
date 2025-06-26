@@ -16,6 +16,13 @@
  - 2025-04-02: [[Recipe] Lift and shift](https://thefocus.ai/recipes/lift-and-shift/)
  - 2025-03-31: [[Recipe] Claude to write midjourney prompts](https://thefocus.ai/recipes/using-claude-to-write-midjourney-prompts/)
 
+## Our MCP Servers
+
+ - 2025-06-19: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
+ - 2025-04-08: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
+ - 2025-03-24: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
+ - 2025-03-23: [The-Focus-AI/buttondown-mcp](https://github.com/The-Focus-AI/buttondown-mcp) - ModelContextProtocal server for interacting with buttondown
+
 ## Latest Focus Repo activity
 
  - 2025-06-26: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
