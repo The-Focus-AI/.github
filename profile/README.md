@@ -25,8 +25,8 @@
 
 ## Latest Focus Repo activity
 
- - 2025-06-27: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
  - 2025-06-27: [The-Focus-AI/registry](https://github.com/The-Focus-AI/registry) - A public registry and website for shadcn/ui components. Discover, share, and install reusable UI blocks for your projects.
+ - 2025-06-27: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
  - 2025-06-27: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-06-26: [The-Focus-AI/june-2025-coding-agent-report](https://github.com/The-Focus-AI/june-2025-coding-agent-report) - Comprehensive evaluation of 15 AI coding agents (Cursor, Copilot, Claude, Replit, v0, Warp, etc.) with implementations, screenshots, and professional scoring. Published on Turing Post.
  - 2025-06-26: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
