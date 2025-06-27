@@ -33,7 +33,6 @@
  - 2025-06-26: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-06-24: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2025-06-19: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
- - 2025-06-16: [The-Focus-AI/tezlab-cli](https://github.com/The-Focus-AI/tezlab-cli) - CLI and ModelContextProtocol interface to tezlab
  - 2025-06-13: [The-Focus-AI/idears-replit](https://github.com/The-Focus-AI/idears-replit) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-06-12: [The-Focus-AI/idears-cursor](https://github.com/The-Focus-AI/idears-cursor) - June 25 Agent Evaluation
