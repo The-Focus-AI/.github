@@ -25,6 +25,7 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-06-28: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-06-28: [The-Focus-AI/june-2025-coding-agent-report](https://github.com/The-Focus-AI/june-2025-coding-agent-report) - Comprehensive evaluation of 15 AI coding agents (Cursor, Copilot, Claude, Replit, v0, Warp, etc.) with implementations, screenshots, and professional scoring. Published on Turing Post.
  - 2025-06-27: [The-Focus-AI/registry](https://github.com/The-Focus-AI/registry) - A public registry and website for shadcn/ui components. Discover, share, and install reusable UI blocks for your projects.
  - 2025-06-27: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
@@ -34,7 +35,6 @@
  - 2025-06-24: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2025-06-19: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
  - 2025-06-13: [The-Focus-AI/idears-replit](https://github.com/The-Focus-AI/idears-replit) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
  - 2025-06-12: [The-Focus-AI/idears-cursor](https://github.com/The-Focus-AI/idears-cursor) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-cursor-agent](https://github.com/The-Focus-AI/idears-cursor-agent) - June 25 Agent Evaluation
  - 2025-06-12: [The-Focus-AI/idears-goose](https://github.com/The-Focus-AI/idears-goose) - June 25 Agent Evaluation
