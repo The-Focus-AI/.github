@@ -50,6 +50,5 @@
  - 2025-06-11: [The-Focus-AI/idears-copilot](https://github.com/The-Focus-AI/idears-copilot) - June 25 Agent Evaluation
  - 2025-06-11: [The-Focus-AI/idears-copilot-plus](https://github.com/The-Focus-AI/idears-copilot-plus) - 
  - 2025-06-08: [The-Focus-AI/discord-feed](https://github.com/The-Focus-AI/discord-feed) - 
- - 2025-06-03: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
