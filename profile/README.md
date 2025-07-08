@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-07-08: [[Recipe] Dagger and Container Use](https://thefocus.ai/recipes/dagger-and-container-use/)
  - 2025-07-03: [Technical Debt and the ROI Threshold](https://thefocus.ai/posts/technical-debt-and-the-roi-threshhold/)
  - 2025-06-30: [[Recipe] Use Cursor in Slack](https://thefocus.ai/recipes/use-cursor-in-slack/)
  - 2025-06-25: [Don't be passive aggressive with your agents](https://thefocus.ai/posts/dont-be-passive-aggressive/)
@@ -14,7 +15,6 @@
  - 2025-05-21: [Report from Microsoft Build 2025](https://thefocus.ai/posts/microsoft-build-2025/)
  - 2025-04-07: [[Recipe] Iterating designs with Chat GPT 4o](https://thefocus.ai/recipes/iterating-designs-with-chatgpt4o/)
  - 2025-04-04: [Thoughts on gemini](https://thefocus.ai/posts/thoughts-on-gemini/)
- - 2025-04-03: [[Recipe] Use the llm cli for quick prototyping](https://thefocus.ai/recipes/llm-for-quick-prototyping/)
 
 ## Our MCP Servers
 
