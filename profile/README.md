@@ -35,13 +35,5 @@
  - 2025-06-27: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-06-24: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2025-06-13: [The-Focus-AI/idears-replit](https://github.com/The-Focus-AI/idears-replit) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-cursor](https://github.com/The-Focus-AI/idears-cursor) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-cursor-agent](https://github.com/The-Focus-AI/idears-cursor-agent) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-goose](https://github.com/The-Focus-AI/idears-goose) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-jules](https://github.com/The-Focus-AI/idears-jules) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-roocode](https://github.com/The-Focus-AI/idears-roocode) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-v0](https://github.com/The-Focus-AI/idears-v0) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-warp](https://github.com/The-Focus-AI/idears-warp) - June 25 Agent Evaluation
- - 2025-06-12: [The-Focus-AI/idears-windsurf](https://github.com/The-Focus-AI/idears-windsurf) - June 25 Agent Evaluation
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
