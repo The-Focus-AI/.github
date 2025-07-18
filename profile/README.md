@@ -25,10 +25,10 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-07-18: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-07-15: [The-Focus-AI/buttondown-mcp](https://github.com/The-Focus-AI/buttondown-mcp) - ModelContextProtocal server for interacting with buttondown
  - 2025-07-15: [The-Focus-AI/discord-feed](https://github.com/The-Focus-AI/discord-feed) - 
  - 2025-07-15: [The-Focus-AI/github-search](https://github.com/The-Focus-AI/github-search) - Analyze and summarize GitHub repositories for file patterns, structure, and rules. Generates reports and keeps checked-out code for inspection.
- - 2025-07-15: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-07-15: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
  - 2025-07-15: [The-Focus-AI/mflux-commander](https://github.com/The-Focus-AI/mflux-commander) - a CLI tool for working directly with image generation models
  - 2025-07-15: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
