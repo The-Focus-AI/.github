@@ -25,8 +25,8 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-08-13: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-08-09: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
- - 2025-07-18: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-07-15: [The-Focus-AI/buttondown-mcp](https://github.com/The-Focus-AI/buttondown-mcp) - ModelContextProtocal server for interacting with buttondown
  - 2025-07-15: [The-Focus-AI/discord-feed](https://github.com/The-Focus-AI/discord-feed) - 
  - 2025-07-15: [The-Focus-AI/github-search](https://github.com/The-Focus-AI/github-search) - Analyze and summarize GitHub repositories for file patterns, structure, and rules. Generates reports and keeps checked-out code for inspection.
