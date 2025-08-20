@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-08-20: [Code Generation with Local Models](https://thefocus.ai/posts/local-models-typescript/)
  - 2025-08-13: [gpt-5 and gpt-oss](https://thefocus.ai/posts/gpt5-and-gpt-oss/)
  - 2025-07-08: [[Recipe] Dagger and Container Use](https://thefocus.ai/recipes/dagger-and-container-use/)
  - 2025-07-03: [Technical Debt and the ROI Threshold](https://thefocus.ai/posts/technical-debt-and-the-roi-threshhold/)
@@ -14,7 +15,6 @@
  - 2025-05-28: [[Recipe] Content Finder](https://thefocus.ai/recipes/content-finder/)
  - 2025-05-28: [[Recipe] Geolocation Prompt](https://thefocus.ai/recipes/geolocation-prompt/)
  - 2025-05-21: [Report from Microsoft Build 2025](https://thefocus.ai/posts/microsoft-build-2025/)
- - 2025-04-07: [[Recipe] Iterating designs with Chat GPT 4o](https://thefocus.ai/recipes/iterating-designs-with-chatgpt4o/)
 
 ## Our MCP Servers
 
@@ -26,8 +26,8 @@
 ## Latest Focus Repo activity
 
  - 2025-08-20: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
+ - 2025-08-20: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-08-13: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
- - 2025-08-13: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-08-09: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
