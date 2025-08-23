@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-08-22: [Single file swift mini-apps](https://thefocus.ai/posts/single-file-swift-code/)
  - 2025-08-20: [Code Generation with Local Models](https://thefocus.ai/posts/local-models-typescript/)
  - 2025-08-13: [gpt-5 and gpt-oss](https://thefocus.ai/posts/gpt5-and-gpt-oss/)
  - 2025-07-08: [[Recipe] Dagger and Container Use](https://thefocus.ai/recipes/dagger-and-container-use/)
@@ -14,7 +15,6 @@
  - 2025-06-02: [Geo-affordance](https://thefocus.ai/posts/geo-affordance/)
  - 2025-05-28: [[Recipe] Content Finder](https://thefocus.ai/recipes/content-finder/)
  - 2025-05-28: [[Recipe] Geolocation Prompt](https://thefocus.ai/recipes/geolocation-prompt/)
- - 2025-05-21: [Report from Microsoft Build 2025](https://thefocus.ai/posts/microsoft-build-2025/)
 
 ## Our MCP Servers
 
@@ -25,13 +25,13 @@
 
 ## Latest Focus Repo activity
 
- - 2025-08-22: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
+ - 2025-08-23: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
+ - 2025-08-23: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, and LM Studio. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2025-08-22: [The-Focus-AI/gemini-summarize](https://github.com/The-Focus-AI/gemini-summarize) - A command line tool that extracts metadata from PDF and EPUB files using Google Gemini AI with automatic 1Password integration and smart caching
  - 2025-08-22: [The-Focus-AI/confirm-osx](https://github.com/The-Focus-AI/confirm-osx) - A Swift command line utility that displays native macOS confirmation dialogs with optional Touch ID/password authentication. Perfect for scripts that need user confirmation before executing critical operations.
  - 2025-08-22: [The-Focus-AI/readbar](https://github.com/The-Focus-AI/readbar) - macOS Menubar PDF/EPUB File Tracker - A simple menubar app to track and manage your reading files
  - 2025-08-21: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
  - 2025-08-21: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
- - 2025-08-20: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-08-09: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
