@@ -25,7 +25,8 @@
 
 ## Latest Focus Repo activity
 
- - 2025-09-11: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
+ - 2025-09-12: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
+ - 2025-09-12: [The-Focus-AI/umwelten-examples](https://github.com/The-Focus-AI/umwelten-examples) - A collection of examples demonstrating different approaches to building AI chat applications with tool calling capabilities using the Umwelten framework, Vercel AI SDK, and modern web technologies.
  - 2025-09-09: [The-Focus-AI/s3-bucket-sync](https://github.com/The-Focus-AI/s3-bucket-sync) - A TypeScript tool that downloads all files from an S3 bucket into daily directories for historical tracking. Includes AWS IAM setup, diagnostic tools, and automated sync capabilities.
  - 2025-09-05: [The-Focus-AI/shell-job-queue](https://github.com/The-Focus-AI/shell-job-queue) - A simple, persistent, process-based job queue server in Go. Runs jobs as OS processes, with REST API, webhooks, and Docker support.
  - 2025-09-04: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
