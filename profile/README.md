@@ -35,6 +35,5 @@
  - 2025-08-29: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2025-08-25: [The-Focus-AI/readbar](https://github.com/The-Focus-AI/readbar) - macOS Menubar PDF/EPUB File Tracker - A simple menubar app to track and manage your reading files
  - 2025-08-24: [The-Focus-AI/gemini-summarize](https://github.com/The-Focus-AI/gemini-summarize) - A command line tool that extracts metadata from PDF and EPUB files using Google Gemini AI with automatic 1Password integration and smart caching
- - 2025-08-22: [The-Focus-AI/confirm-osx](https://github.com/The-Focus-AI/confirm-osx) - A Swift command line utility that displays native macOS confirmation dialogs with optional Touch ID/password authentication. Perfect for scripts that need user confirmation before executing critical operations.
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
