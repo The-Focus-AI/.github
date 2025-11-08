@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-09-08: [[Recipe] Using repomix to give llm full context](https://thefocus.ai/recipes/repomix-redux/)
  - 2025-09-04: [gpt5 is smarter than you are](https://thefocus.ai/posts/gpt5/)
  - 2025-09-01: [[Recipe] context7-mcp](https://thefocus.ai/recipes/context7-mcp/)
  - 2025-09-01: [[Recipe] use playwright mcp to get high fidelity designs](https://thefocus.ai/recipes/playwright-mcp/)
@@ -14,7 +15,6 @@
  - 2025-07-03: [Technical Debt and the ROI Threshold](https://thefocus.ai/posts/technical-debt-and-the-roi-threshhold/)
  - 2025-06-30: [[Recipe] Use Cursor in Slack](https://thefocus.ai/recipes/use-cursor-in-slack/)
  - 2025-06-25: [Don't be passive aggressive with your agents](https://thefocus.ai/posts/dont-be-passive-aggressive/)
- - 2025-06-08: [Feature Development on the go](https://thefocus.ai/posts/feature-development-on-the-go/)
 
 ## Our MCP Servers
 
@@ -25,6 +25,7 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-11-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-11-07: [The-Focus-AI/image-browser](https://github.com/The-Focus-AI/image-browser) - Local MLX image browser + Cloud R2/Replicate loader with Supabase pgvector. Drop images into images/ and run sync; browse uses the same DB and URL settings to stay in sync.
  - 2025-11-05: [The-Focus-AI/registry](https://github.com/The-Focus-AI/registry) - A public registry and website for shadcn/ui components. Discover, share, and install reusable UI blocks for your projects.
  - 2025-10-22: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
