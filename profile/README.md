@@ -25,6 +25,7 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-11-11: [The-Focus-AI/atproto-experiments](https://github.com/The-Focus-AI/atproto-experiments) - Practical TypeScript examples for building with AT Protocol and Bluesky - PDS-first static sites, job queues, file sync, firehose streaming, and more
  - 2025-11-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-11-07: [The-Focus-AI/image-browser](https://github.com/The-Focus-AI/image-browser) - Local MLX image browser + Cloud R2/Replicate loader with Supabase pgvector. Drop images into images/ and run sync; browse uses the same DB and URL settings to stay in sync.
  - 2025-11-05: [The-Focus-AI/registry](https://github.com/The-Focus-AI/registry) - A public registry and website for shadcn/ui components. Discover, share, and install reusable UI blocks for your projects.
