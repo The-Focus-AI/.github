@@ -30,8 +30,5 @@
  - 2025-11-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-11-07: [The-Focus-AI/image-browser](https://github.com/The-Focus-AI/image-browser) - Local MLX image browser + Cloud R2/Replicate loader with Supabase pgvector. Drop images into images/ and run sync; browse uses the same DB and URL settings to stay in sync.
  - 2025-11-05: [The-Focus-AI/registry](https://github.com/The-Focus-AI/registry) - A public registry and website for shadcn/ui components. Discover, share, and install reusable UI blocks for your projects.
- - 2025-10-22: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
- - 2025-10-22: [The-Focus-AI/data-agent-builder](https://github.com/The-Focus-AI/data-agent-builder) - LLM-driven Excel to SQLite data import tool with AI-powered column naming and intelligent data analysis
- - 2025-10-22: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
