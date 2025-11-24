@@ -25,7 +25,7 @@
 
 ## Latest Focus Repo activity
 
- - 2025-11-21: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
+ - 2025-11-24: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
  - 2025-11-18: [The-Focus-AI/atproto-experiments](https://github.com/The-Focus-AI/atproto-experiments) - Practical TypeScript examples for building with AT Protocol and Bluesky - PDS-first static sites, job queues, file sync, firehose streaming, and more
  - 2025-11-08: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-11-07: [The-Focus-AI/image-browser](https://github.com/The-Focus-AI/image-browser) - Local MLX image browser + Cloud R2/Replicate loader with Supabase pgvector. Drop images into images/ and run sync; browse uses the same DB and URL settings to stay in sync.
