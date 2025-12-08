@@ -25,6 +25,7 @@
 
 ## Latest Focus Repo activity
 
+ - 2025-12-08: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
  - 2025-12-07: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2025-12-07: [The-Focus-AI/focus-commands](https://github.com/The-Focus-AI/focus-commands) - Claude Code commands for Focus.AI project setup
  - 2025-12-07: [The-Focus-AI/data-agent-builder](https://github.com/The-Focus-AI/data-agent-builder) - LLM-driven Excel to SQLite data import tool with AI-powered column naming and intelligent data analysis
@@ -34,7 +35,6 @@
  - 2025-12-06: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2025-12-06: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2025-12-06: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2025-12-05: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
  - 2025-12-05: [The-Focus-AI/weekend-warrior](https://github.com/The-Focus-AI/weekend-warrior) - Weekend coding projects and experiments from TheFocus.AI Labs
  - 2025-12-01: [The-Focus-AI/weekend-coding-agent](https://github.com/The-Focus-AI/weekend-coding-agent) - CLI code editing agent powered by Gemini 3 Pro - built in a weekend with Claude Code doing the research, planning, and implementation
  - 2025-12-01: [The-Focus-AI/weekend-content-repurpose](https://github.com/The-Focus-AI/weekend-content-repurpose) - Convert newsletter EML files into organized Markdown content with taxonomy classification
