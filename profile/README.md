@@ -25,7 +25,7 @@
 
 ## Latest Focus Repo activity
 
- - 2025-12-15: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
+ - 2025-12-16: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2025-12-10: [The-Focus-AI/weekend-coding-agent](https://github.com/The-Focus-AI/weekend-coding-agent) - CLI code editing agent powered by Gemini 3 Pro - built in a weekend with Claude Code doing the research, planning, and implementation
  - 2025-12-09: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2025-12-09: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
