@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2025-12-16: ["You're absolutely right" and other AI warning signs](https://thefocus.ai/posts/you-are-absolutely-right/)
  - 2025-12-10: [AI tools fail loudly where humans failed quietly](https://thefocus.ai/posts/good-for-human-good-for-ai/)
  - 2025-12-05: [[Recipe] The Smallest Coding Agent](https://thefocus.ai/recipes/smallest-coding-agent/)
  - 2025-11-22: [AI Engineering Summit 2025: Bash-Pilled and Building for Everyone](https://thefocus.ai/posts/2025-11-22-ai-engineering-summit-takeaways/)
@@ -14,7 +15,6 @@
  - 2025-09-01: [[Recipe] use playwright mcp to get high fidelity designs](https://thefocus.ai/recipes/playwright-mcp/)
  - 2025-08-22: [Single file swift mini-apps](https://thefocus.ai/posts/single-file-swift-code/)
  - 2025-08-20: [Code Generation with Local Models](https://thefocus.ai/posts/local-models-typescript/)
- - 2025-08-13: [gpt-5 and gpt-oss](https://thefocus.ai/posts/gpt5-and-gpt-oss/)
 
 ## Our MCP Servers
 
