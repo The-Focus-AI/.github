@@ -37,6 +37,5 @@
  - 2025-12-07: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
  - 2025-12-06: [The-Focus-AI/focus-skills](https://github.com/The-Focus-AI/focus-skills) - Claude Code skills for Focus.AI development
  - 2025-12-06: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
- - 2025-12-01: [The-Focus-AI/weekend-content-repurpose](https://github.com/The-Focus-AI/weekend-content-repurpose) - Convert newsletter EML files into organized Markdown content with taxonomy classification
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
