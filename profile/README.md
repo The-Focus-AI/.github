@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2026-01-03: [How I Use AI in Jan 2026](https://thefocus.ai/posts/how-i-use-ai-jan-2026/)
  - 2025-12-17: [[Recipe] Build Your Own Coding Agent](https://thefocus.ai/reports/coding-agent/)
  - 2025-12-16: ["You're absolutely right" and other AI warning signs](https://thefocus.ai/posts/you-are-absolutely-right/)
  - 2025-12-10: [AI tools fail loudly where humans failed quietly](https://thefocus.ai/posts/good-for-human-good-for-ai/)
@@ -14,7 +15,6 @@
  - 2025-09-08: [[Recipe] Using repomix to give llm full context](https://thefocus.ai/recipes/repomix-redux/)
  - 2025-09-04: [gpt5 is smarter than you are](https://thefocus.ai/posts/gpt5/)
  - 2025-09-01: [[Recipe] context7-mcp](https://thefocus.ai/recipes/context7-mcp/)
- - 2025-09-01: [[Recipe] use playwright mcp to get high fidelity designs](https://thefocus.ai/recipes/playwright-mcp/)
 
 ## Our MCP Servers
 
