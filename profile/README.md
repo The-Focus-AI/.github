@@ -35,7 +35,5 @@
  - 2025-12-07: [The-Focus-AI/focus-commands](https://github.com/The-Focus-AI/focus-commands) - Claude Code commands for Focus.AI project setup
  - 2025-12-07: [The-Focus-AI/data-agent-builder](https://github.com/The-Focus-AI/data-agent-builder) - LLM-driven Excel to SQLite data import tool with AI-powered column naming and intelligent data analysis
  - 2025-12-07: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
- - 2025-12-06: [The-Focus-AI/focus-skills](https://github.com/The-Focus-AI/focus-skills) - Claude Code skills for Focus.AI development
- - 2025-12-06: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
