@@ -16,12 +16,15 @@
  - 2025-09-04: [gpt5 is smarter than you are](https://thefocus.ai/posts/gpt5/)
  - 2025-09-01: [[Recipe] context7-mcp](https://thefocus.ai/recipes/context7-mcp/)
 
-## Our MCP Servers
+## Our Claude Skills
 
- - 2025-10-22: [The-Focus-AI/mastodon-mcp](https://github.com/The-Focus-AI/mastodon-mcp) - mastodon modelcontextprotocol server
- - 2025-07-15: [The-Focus-AI/buttondown-mcp](https://github.com/The-Focus-AI/buttondown-mcp) - ModelContextProtocal server for interacting with buttondown
- - 2025-07-15: [The-Focus-AI/plausible-mcp](https://github.com/The-Focus-AI/plausible-mcp) - Connect your plausible account to your llms
- - 2025-07-15: [The-Focus-AI/weather-mcp](https://github.com/The-Focus-AI/weather-mcp) - Sample mcp app from anthropic tutorials
+ - 2026-01-11: [The-Focus-AI/buttondown-skill](https://github.com/The-Focus-AI/buttondown-skill) - Claude Code plugin skill for managing Buttondown newsletters - create drafts, schedule emails, view analytics
+ - 2026-01-11: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
+ - 2026-01-11: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
+ - 2025-12-08: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
+ - 2025-12-07: [The-Focus-AI/focus-commands](https://github.com/The-Focus-AI/focus-commands) - Claude Code commands for Focus.AI project setup
+ - 2025-12-07: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
+ - 2025-12-06: [The-Focus-AI/focus-skills](https://github.com/The-Focus-AI/focus-skills) - Claude Code skills for Focus.AI development
 
 ## Latest Focus Repo activity
 
