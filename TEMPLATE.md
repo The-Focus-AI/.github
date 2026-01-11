@@ -6,9 +6,9 @@
 
 <!-- feed: https://thefocus.ai/rss.xml -->
 
-## Our MCP Servers
+## Our Claude Skills
 
-<!-- The-Focus-AI repo activity -mcp -->
+<!-- The-Focus-AI repo activity claude-skills -->
 
 ## Latest Focus Repo activity
 
