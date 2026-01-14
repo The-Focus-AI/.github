@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2026-01-14: [Claude Code, not Code](https://thefocus.ai/posts/claude-code-non-coding/)
  - 2026-01-03: [How I Use AI in Jan 2026](https://thefocus.ai/posts/how-i-use-ai-jan-2026/)
  - 2025-12-17: [[Recipe] Build Your Own Coding Agent](https://thefocus.ai/reports/coding-agent/)
  - 2025-12-16: ["You're absolutely right" and other AI warning signs](https://thefocus.ai/posts/you-are-absolutely-right/)
@@ -14,10 +15,10 @@
  - 2025-11-20: [AI Engineering Code Summit 2025: Deep Dive Report](https://thefocus.ai/reports/aiecode-2025-11/)
  - 2025-09-08: [[Recipe] Using repomix to give llm full context](https://thefocus.ai/recipes/repomix-redux/)
  - 2025-09-04: [gpt5 is smarter than you are](https://thefocus.ai/posts/gpt5/)
- - 2025-09-01: [[Recipe] context7-mcp](https://thefocus.ai/recipes/context7-mcp/)
 
 ## Our Claude Skills
 
+ - 2026-01-14: [The-Focus-AI/gmail-skill](https://github.com/The-Focus-AI/gmail-skill) - Gmail and Google Calendar integration for Claude Code. Read, send, search emails. List, create, delete calendar events.
  - 2026-01-11: [The-Focus-AI/buttondown-skill](https://github.com/The-Focus-AI/buttondown-skill) - Claude Code plugin skill for managing Buttondown newsletters - create drafts, schedule emails, view analytics
  - 2026-01-11: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2026-01-11: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
@@ -28,9 +29,10 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-01-14: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
+ - 2026-01-14: [The-Focus-AI/gmail-skill](https://github.com/The-Focus-AI/gmail-skill) - Gmail and Google Calendar integration for Claude Code. Read, send, search emails. List, create, delete calendar events.
  - 2026-01-14: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-01-13: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
- - 2026-01-11: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-01-11: [The-Focus-AI/buttondown-skill](https://github.com/The-Focus-AI/buttondown-skill) - Claude Code plugin skill for managing Buttondown newsletters - create drafts, schedule emails, view analytics
  - 2026-01-11: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2026-01-11: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
