@@ -46,7 +46,5 @@
  - 2026-01-17: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
  - 2026-01-16: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-01-13: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
- - 2025-12-19: [The-Focus-AI/weekend-warrior](https://github.com/The-Focus-AI/weekend-warrior) - Weekend coding projects and experiments from TheFocus.AI Labs
- - 2025-12-19: [The-Focus-AI/weekend-coding-agent](https://github.com/The-Focus-AI/weekend-coding-agent) - CLI code editing agent powered by Gemini 3 Pro - built in a weekend with Claude Code doing the research, planning, and implementation
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
