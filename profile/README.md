@@ -37,13 +37,13 @@
  - 2026-01-24: [The-Focus-AI/embeddings-search-skill](https://github.com/The-Focus-AI/embeddings-search-skill) - Claude Code plugin for hybrid document search (grep + semantic embeddings)
  - 2026-01-24: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-01-24: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
+ - 2026-01-24: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-01-22: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-01-22: [The-Focus-AI/plausible-skill](https://github.com/The-Focus-AI/plausible-skill) - Simple Node.js script and Claude skill for querying Plausible Analytics API
  - 2026-01-22: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
  - 2026-01-21: [The-Focus-AI/microsoft-skill](https://github.com/The-Focus-AI/microsoft-skill) - Microsoft Graph API skill for Claude Code and AI agents
  - 2026-01-21: [The-Focus-AI/turing-reading](https://github.com/The-Focus-AI/turing-reading) - 
  - 2026-01-20: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
- - 2026-01-20: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-01-19: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-01-19: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
  - 2026-01-17: [The-Focus-AI/nano-banana-cli](https://github.com/The-Focus-AI/nano-banana-cli) - A flexible CLI tool that uses Google's Gemini API to process images with customizable prompts. Perfect for batch processing slides, photos, and other images with AI-powered transformations.
