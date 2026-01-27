@@ -33,11 +33,11 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-01-27: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-01-26: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-01-26: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
  - 2026-01-26: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-01-26: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
- - 2026-01-26: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-01-25: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
  - 2026-01-24: [The-Focus-AI/embeddings-search-skill](https://github.com/The-Focus-AI/embeddings-search-skill) - Claude Code plugin for hybrid document search (grep + semantic embeddings)
  - 2026-01-24: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
