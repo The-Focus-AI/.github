@@ -33,7 +33,7 @@
 
 ## Latest Focus Repo activity
 
- - 2026-02-04: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-02-05: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-03: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-02-03: [The-Focus-AI/ops-hub-template](https://github.com/The-Focus-AI/ops-hub-template) - AI-powered operations hub for consulting firms and agencies. Track clients, invoices, tasks, sales, hiring, and finances — all from markdown files managed by Claude Code.
  - 2026-02-02: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
