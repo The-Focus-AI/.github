@@ -34,11 +34,11 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-02-07: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-06: [The-Focus-AI/quickbooks-skill](https://github.com/The-Focus-AI/quickbooks-skill) - Read-only access to QuickBooks Online data from Claude Code
  - 2026-02-06: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-02-06: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-02-06: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2026-02-06: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-03: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-02-03: [The-Focus-AI/ops-hub-template](https://github.com/The-Focus-AI/ops-hub-template) - AI-powered operations hub for consulting firms and agencies. Track clients, invoices, tasks, sales, hiring, and finances — all from markdown files managed by Claude Code.
  - 2026-02-02: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
