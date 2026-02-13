@@ -36,8 +36,8 @@
 
 ## Latest Focus Repo activity
 
- - 2026-02-13: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-13: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
+ - 2026-02-13: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-12: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-02-11: [The-Focus-AI/marina-skill](https://github.com/The-Focus-AI/marina-skill) - Claude Code plugin for managing Hetzner Cloud servers, Cloudflare DNS, and Docker-based app deployments
  - 2026-02-11: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
