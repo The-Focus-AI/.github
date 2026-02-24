@@ -36,9 +36,9 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-02-24: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-23: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
  - 2026-02-23: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
- - 2026-02-23: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-19: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-02-19: [The-Focus-AI/focus-skills](https://github.com/The-Focus-AI/focus-skills) - Claude Code skills for Focus.AI development
  - 2026-02-19: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
@@ -59,6 +59,5 @@
  - 2026-02-03: [The-Focus-AI/ops-hub-template](https://github.com/The-Focus-AI/ops-hub-template) - AI-powered operations hub for consulting firms and agencies. Track clients, invoices, tasks, sales, hiring, and finances — all from markdown files managed by Claude Code.
  - 2026-02-02: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
  - 2026-02-01: [The-Focus-AI/prompt-library](https://github.com/The-Focus-AI/prompt-library) - Prompt library, with MCP support
- - 2026-01-24: [The-Focus-AI/embeddings-search-skill](https://github.com/The-Focus-AI/embeddings-search-skill) - Claude Code plugin for hybrid document search (grep + semantic embeddings)
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
