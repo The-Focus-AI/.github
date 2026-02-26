@@ -18,11 +18,11 @@
 
 ## Our Claude Skills
 
+ - 2026-02-26: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-02-25: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
  - 2026-02-19: [The-Focus-AI/focus-skills](https://github.com/The-Focus-AI/focus-skills) - Claude Code skills for Focus.AI development
  - 2026-02-19: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2026-02-19: [The-Focus-AI/focus-commands](https://github.com/The-Focus-AI/focus-commands) - Claude Code commands for Focus.AI project setup
- - 2026-02-19: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-02-19: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
  - 2026-02-19: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-02-19: [The-Focus-AI/plausible-skill](https://github.com/The-Focus-AI/plausible-skill) - Simple Node.js script and Claude skill for querying Plausible Analytics API
@@ -37,6 +37,7 @@
 ## Latest Focus Repo activity
 
  - 2026-02-26: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
+ - 2026-02-26: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-02-26: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-02-25: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-02-25: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
@@ -46,7 +47,6 @@
  - 2026-02-19: [The-Focus-AI/focus-skills](https://github.com/The-Focus-AI/focus-skills) - Claude Code skills for Focus.AI development
  - 2026-02-19: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2026-02-19: [The-Focus-AI/focus-commands](https://github.com/The-Focus-AI/focus-commands) - Claude Code commands for Focus.AI project setup
- - 2026-02-19: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-02-19: [The-Focus-AI/focus-agents](https://github.com/The-Focus-AI/focus-agents) - Claude Code agents for research and engineering analysis
  - 2026-02-19: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-02-19: [The-Focus-AI/plausible-skill](https://github.com/The-Focus-AI/plausible-skill) - Simple Node.js script and Claude skill for querying Plausible Analytics API
