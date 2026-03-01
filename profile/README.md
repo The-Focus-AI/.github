@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2026-03-01: [The Car Wash Test: Learning from Model Evals](https://thefocus.ai/posts/the-car-wash-test/)
  - 2026-02-05: [The Agent Habitat](https://thefocus.ai/posts/agent-habitat/)
  - 2026-01-22: [The Data Flywheel Pattern](https://thefocus.ai/posts/data-flywheel-pattern/)
  - 2026-01-14: [Claude Code, not Code](https://thefocus.ai/posts/claude-code-non-coding/)
@@ -14,7 +15,6 @@
  - 2025-12-05: [[Recipe] The Smallest Coding Agent](https://thefocus.ai/recipes/smallest-coding-agent/)
  - 2025-11-29: [Weekend Coding Agent: Build Your Own AI Assistant](https://thefocus.ai/posts/weekend-coding-agent/)
  - 2025-11-22: [AI Engineering Summit 2025: Bash-Pilled and Building for Everyone](https://thefocus.ai/posts/2025-11-22-ai-engineering-summit-takeaways/)
- - 2025-11-20: [AI Engineering Code Summit 2025: Deep Dive Report](https://thefocus.ai/posts/ai-engineering-code-summit-2025/)
 
 ## Our Claude Skills
 
@@ -37,6 +37,7 @@
 ## Latest Focus Repo activity
 
  - 2026-03-01: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-03-01: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-02-27: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
  - 2026-02-27: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
  - 2026-02-27: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
@@ -45,7 +46,6 @@
  - 2026-02-26: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-02-25: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
  - 2026-02-25: [The-Focus-AI/habitat-site](https://github.com/The-Focus-AI/habitat-site) - Black background, full-screen images with gentle zoom and short stories. Static site.
- - 2026-02-19: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-02-19: [The-Focus-AI/focus-skills](https://github.com/The-Focus-AI/focus-skills) - Claude Code skills for Focus.AI development
  - 2026-02-19: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2026-02-19: [The-Focus-AI/focus-commands](https://github.com/The-Focus-AI/focus-commands) - Claude Code commands for Focus.AI project setup
