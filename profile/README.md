@@ -59,6 +59,5 @@
  - 2026-02-11: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
  - 2026-02-11: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2026-02-03: [The-Focus-AI/ops-hub-template](https://github.com/The-Focus-AI/ops-hub-template) - AI-powered operations hub for consulting firms and agencies. Track clients, invoices, tasks, sales, hiring, and finances — all from markdown files managed by Claude Code.
- - 2026-02-02: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
