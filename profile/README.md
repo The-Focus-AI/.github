@@ -57,6 +57,6 @@
  - 2026-02-13: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
  - 2026-02-11: [The-Focus-AI/marina-skill](https://github.com/The-Focus-AI/marina-skill) - Claude Code plugin for managing Hetzner Cloud servers, Cloudflare DNS, and Docker-based app deployments
  - 2026-02-11: [The-Focus-AI/markify](https://github.com/The-Focus-AI/markify) - Simple app that takes a URL and returns markdown
- - 2026-02-11: [The-Focus-AI/node-peerjs](https://github.com/The-Focus-AI/node-peerjs) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
+ - 2026-02-11: [The-Focus-AI/peerwormhole](https://github.com/The-Focus-AI/peerwormhole) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
