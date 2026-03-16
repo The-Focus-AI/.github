@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2026-03-15: [Can LLMs Use Real-World Tools? Mercury-2, ELO, and the Umwelten Setup](https://thefocus.ai/posts/mcp-tool-eval-mercury-umwelten/)
  - 2026-03-12: [Sraffa's Gesture, the Crack in the Crystal, and Why the Stochastic Parrot Still Bites](https://thefocus.ai/posts/sraffas-gesture/)
  - 2026-03-01: [The Car Wash Test: Learning from Model Evals](https://thefocus.ai/posts/the-car-wash-test/)
  - 2026-02-05: [The Agent Habitat](https://thefocus.ai/posts/agent-habitat/)
@@ -14,7 +15,6 @@
  - 2025-12-16: ["You're absolutely right" and other AI warning signs](https://thefocus.ai/posts/you-are-absolutely-right/)
  - 2025-12-10: [AI tools fail loudly where humans failed quietly](https://thefocus.ai/posts/good-for-human-good-for-ai/)
  - 2025-12-05: [[Recipe] The Smallest Coding Agent](https://thefocus.ai/recipes/smallest-coding-agent/)
- - 2025-11-29: [Weekend Coding Agent: Build Your Own AI Assistant](https://thefocus.ai/posts/weekend-coding-agent/)
 
 ## Our Claude Skills
 
@@ -36,8 +36,8 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-03-16: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-03-15: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
- - 2026-03-15: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-03-15: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-03-12: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-03-12: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
