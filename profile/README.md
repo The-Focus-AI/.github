@@ -45,7 +45,5 @@
  - 2026-03-12: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
  - 2026-03-11: [The-Focus-AI/peerwormhole](https://github.com/The-Focus-AI/peerwormhole) - A peer-to-peer communication toolkit featuring real-time chat and file transfer capabilities, with both Node.js and web interfaces, built on PeerJS for seamless direct connections between users.
  - 2026-02-27: [The-Focus-AI/interview-transcriber](https://github.com/The-Focus-AI/interview-transcriber) - Download audio from YouTube or podcasts, transcribe with Gemini AI, and generate structured summaries and highlights.
- - 2026-02-26: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
- - 2026-02-26: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
