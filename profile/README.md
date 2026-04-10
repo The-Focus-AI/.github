@@ -37,9 +37,9 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-04-10: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-04-09: [The-Focus-AI/mastering-claude](https://github.com/The-Focus-AI/mastering-claude) - 
  - 2026-04-09: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
- - 2026-04-09: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-04-08: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-04-03: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-03-30: [The-Focus-AI/pocketcast-skill](https://github.com/The-Focus-AI/pocketcast-skill) - Claude Code plugin for Pocket Casts — search episodes, starred content, show notes, and podcast metadata
