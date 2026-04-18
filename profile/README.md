@@ -49,6 +49,5 @@
  - 2026-04-03: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
  - 2026-03-30: [The-Focus-AI/pocketcast-skill](https://github.com/The-Focus-AI/pocketcast-skill) - Claude Code plugin for Pocket Casts — search episodes, starred content, show notes, and podcast metadata
  - 2026-03-30: [The-Focus-AI/twitter-skill](https://github.com/The-Focus-AI/twitter-skill) - Claude Code plugin for Twitter/X API - OAuth 2.0 PKCE, tweets, timeline, lists, engagement
- - 2026-03-18: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
