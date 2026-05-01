@@ -38,7 +38,7 @@
 
 ## Latest Focus Repo activity
 
- - 2026-04-30: [The-Focus-AI/magazine](https://github.com/The-Focus-AI/magazine) - The Focus.AI publication line — SURFACE, RUNTIME, STATE, HARNESS, LOCAL, WIRE. Deployed to magazine.thefocus.ai.
+ - 2026-05-01: [The-Focus-AI/magazine](https://github.com/The-Focus-AI/magazine) - The Focus.AI publication line — SURFACE, RUNTIME, STATE, HARNESS, LOCAL, WIRE. Deployed to magazine.thefocus.ai.
  - 2026-04-30: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-04-29: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-04-29: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
