@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2026-05-01: [Neural harness](https://thefocus.ai/posts/neural-harness/)
  - 2026-04-14: [Laddering up from chatboxes to autonomy](https://thefocus.ai/posts/laddering-up-from-chatboxes-to-autonomy/)
  - 2026-04-11: [Building an Intelligent Organization](https://thefocus.ai/posts/building-an-intelligent-organization/)
  - 2026-04-04: [Gemma 4 on Your Machine: How Google’s New Open Weights Stack Up (Model Showdown)](https://thefocus.ai/posts/gemma-4-umwelten-showdown/)
@@ -14,7 +15,6 @@
  - 2026-02-05: [The Agent Habitat](https://thefocus.ai/posts/agent-habitat/)
  - 2026-01-22: [The Data Flywheel Pattern](https://thefocus.ai/posts/data-flywheel-pattern/)
  - 2026-01-14: [Claude Code, not Code](https://thefocus.ai/posts/claude-code-non-coding/)
- - 2026-01-03: [How I Use AI in Jan 2026](https://thefocus.ai/posts/how-i-use-ai-jan-2026/)
 
 ## Our Claude Skills
 
