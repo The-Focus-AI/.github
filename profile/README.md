@@ -38,8 +38,8 @@
 
 ## Latest Focus Repo activity
 
- - 2026-05-02: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-05-02: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
+ - 2026-05-02: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-05-02: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-05-01: [The-Focus-AI/magazine](https://github.com/The-Focus-AI/magazine) - The Focus.AI publication line — SURFACE, RUNTIME, STATE, HARNESS, LOCAL, WIRE. Deployed to magazine.thefocus.ai.
  - 2026-05-01: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
