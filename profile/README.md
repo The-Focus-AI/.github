@@ -49,6 +49,5 @@
  - 2026-04-15: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2026-04-15: [The-Focus-AI/mdcopy](https://github.com/The-Focus-AI/mdcopy) - macOS: GitHub-Flavored Markdown to rich HTML on the clipboard for Mail, Docs, Slack, and Word. Uses Pandoc; includes a Claude Code plugin (mdcopy@focus-marketplace).
  - 2026-04-14: [The-Focus-AI/mastering-claude](https://github.com/The-Focus-AI/mastering-claude) - 
- - 2026-04-03: [The-Focus-AI/granola-skill](https://github.com/The-Focus-AI/granola-skill) - Claude Code plugin for accessing Granola meeting notes, transcripts, and summaries
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
