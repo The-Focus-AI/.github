@@ -4,6 +4,7 @@
 
 ## Latest thefocus.ai posts
 
+ - 2026-05-12: [Which Open Model Should You Actually Run Locally?](https://thefocus.ai/posts/local-providers-which-open-model/)
  - 2026-05-01: [Neural harness](https://thefocus.ai/posts/neural-harness/)
  - 2026-04-14: [Laddering up from chatboxes to autonomy](https://thefocus.ai/posts/laddering-up-from-chatboxes-to-autonomy/)
  - 2026-04-11: [Building an Intelligent Organization](https://thefocus.ai/posts/building-an-intelligent-organization/)
@@ -14,7 +15,6 @@
  - 2026-03-01: [The Car Wash Test: Learning from Model Evals](https://thefocus.ai/posts/the-car-wash-test/)
  - 2026-02-05: [The Agent Habitat](https://thefocus.ai/posts/agent-habitat/)
  - 2026-01-22: [The Data Flywheel Pattern](https://thefocus.ai/posts/data-flywheel-pattern/)
- - 2026-01-14: [Claude Code, not Code](https://thefocus.ai/posts/claude-code-non-coding/)
 
 ## Our Claude Skills
 
@@ -39,10 +39,10 @@
 ## Latest Focus Repo activity
 
  - 2026-05-12: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-05-12: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-05-11: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-05-10: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
  - 2026-05-04: [The-Focus-AI/hermes-body](https://github.com/The-Focus-AI/hermes-body) - Reachy Mini front end for Nous Research's hermes-agent — OpenAI Realtime voice loop + robot motion tools, with hermes-agent as the knowledge backend
- - 2026-05-03: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-05-02: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-05-02: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-05-01: [The-Focus-AI/magazine](https://github.com/The-Focus-AI/magazine) - The Focus.AI publication line — SURFACE, RUNTIME, STATE, HARNESS, LOCAL, WIRE. Deployed to magazine.thefocus.ai.
