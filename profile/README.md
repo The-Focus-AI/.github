@@ -40,8 +40,8 @@
 
  - 2026-05-14: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-05-14: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
- - 2026-05-14: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
  - 2026-05-14: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-05-14: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
  - 2026-05-12: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-05-10: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
  - 2026-05-04: [The-Focus-AI/hermes-body](https://github.com/The-Focus-AI/hermes-body) - Reachy Mini front end for Nous Research's hermes-agent — OpenAI Realtime voice loop + robot motion tools, with hermes-agent as the knowledge backend
@@ -51,6 +51,5 @@
  - 2026-04-29: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
  - 2026-04-15: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
  - 2026-04-15: [The-Focus-AI/mdcopy](https://github.com/The-Focus-AI/mdcopy) - macOS: GitHub-Flavored Markdown to rich HTML on the clipboard for Mail, Docs, Slack, and Word. Uses Pandoc; includes a Claude Code plugin (mdcopy@focus-marketplace).
- - 2026-04-14: [The-Focus-AI/mastering-claude](https://github.com/The-Focus-AI/mastering-claude) - 
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
