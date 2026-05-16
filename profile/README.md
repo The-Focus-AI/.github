@@ -38,7 +38,7 @@
 
 ## Latest Focus Repo activity
 
- - 2026-05-15: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
+ - 2026-05-16: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
  - 2026-05-15: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-05-15: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2026-05-15: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
@@ -50,7 +50,5 @@
  - 2026-05-02: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
  - 2026-05-01: [The-Focus-AI/magazine](https://github.com/The-Focus-AI/magazine) - The Focus.AI publication line — SURFACE, RUNTIME, STATE, HARNESS, LOCAL, WIRE. Deployed to magazine.thefocus.ai.
  - 2026-04-29: [The-Focus-AI/newsletter-feed](https://github.com/The-Focus-AI/newsletter-feed) - Newsletter feed aggregator with weekly AI-powered analysis reports
- - 2026-04-15: [The-Focus-AI/chrome-driver](https://github.com/The-Focus-AI/chrome-driver) - Pure Perl Chrome DevTools Protocol library for browser automation - screenshots, PDFs, web scraping, form filling, and screen recording with zero dependencies
- - 2026-04-15: [The-Focus-AI/mdcopy](https://github.com/The-Focus-AI/mdcopy) - macOS: GitHub-Flavored Markdown to rich HTML on the clipboard for Mail, Docs, Slack, and Word. Uses Pandoc; includes a Claude Code plugin (mdcopy@focus-marketplace).
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
