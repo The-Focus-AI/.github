@@ -38,8 +38,8 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-05-17: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-05-16: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
- - 2026-05-16: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-05-15: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
  - 2026-05-15: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-05-14: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
