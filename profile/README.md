@@ -46,6 +46,5 @@
  - 2026-05-16: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
  - 2026-05-14: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-05-10: [The-Focus-AI/fasting-tracker](https://github.com/The-Focus-AI/fasting-tracker) - Water fast tracker with Oura Ring integration, AI-generated infographics, meal planning, and Instacart automation
- - 2026-05-04: [The-Focus-AI/hermes-body](https://github.com/The-Focus-AI/hermes-body) - Reachy Mini front end for Nous Research's hermes-agent — OpenAI Realtime voice loop + robot motion tools, with hermes-agent as the knowledge backend
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
