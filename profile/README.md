@@ -45,6 +45,5 @@
  - 2026-05-25: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-05-24: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
  - 2026-05-20: [The-Focus-AI/2025-11-20-ai-engineering-code-summit](https://github.com/The-Focus-AI/2025-11-20-ai-engineering-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
- - 2026-05-16: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
