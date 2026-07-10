@@ -47,6 +47,5 @@
  - 2026-06-23: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
  - 2026-06-18: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-06-11: [The-Focus-AI/focus-ai-brand](https://github.com/The-Focus-AI/focus-ai-brand) - Claude Code skill for Focus.AI brand guidelines
- - 2026-06-09: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
