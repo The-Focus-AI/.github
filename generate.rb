@@ -60,14 +60,17 @@ end
 
 template.gsub!(/<!-- feed: (.*) -->/ ) do |match|
   puts "Looking for feed #{$1}"
-  xml = HTTParty.get($1).body
-  feed = Feedjira.parse(xml)
-  posts = feed.entries[0..10].collect do |entry|
-    date = entry.published.strftime("%Y-%m-%d")
-    " - #{date}: [#{entry.title}](#{entry.url})"
-  end.join("\n")
-
-  posts
+  begin
+    xml = HTTParty.get($1).body
+    feed = Feedjira.parse(xml)
+    feed.entries[0..10].collect do |entry|
+      date = entry.published.strftime("%Y-%m-%d")
+      " - #{date}: [#{entry.title}](#{entry.url})"
+    end.join("\n")
+  rescue => e
+    puts "Warning: Could not fetch or parse feed #{$1}: #{e.message}"
+    ""
+  end
 end
 
 system( "mkdir -p profile")

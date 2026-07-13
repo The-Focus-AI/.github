@@ -2,9 +2,9 @@
 
 ![logo](../img/thefocusai.png)
 
-## Latest thefocus.ai posts
+## Latest from labs.thefocus.ai
 
-<!-- feed: https://thefocus.ai/rss.xml -->
+<!-- feed: https://labs.thefocus.ai/rss.xml -->
 
 ## Our Claude Skills
 
