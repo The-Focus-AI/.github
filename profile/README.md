@@ -38,8 +38,8 @@
 
 ## Latest Focus Repo activity
 
- - 2026-07-14: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-07-14: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
+ - 2026-07-14: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-07-14: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
  - 2026-07-13: [The-Focus-AI/twitter-agent](https://github.com/The-Focus-AI/twitter-agent) - Standalone umwelten agent — Twitter/X bookmarks, mentions & feed over a habitat A2A/MCP surface (cloned into a stock habitat)
  - 2026-07-13: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
