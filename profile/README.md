@@ -4,7 +4,7 @@
 
 ## Latest from labs.thefocus.ai
 
- - 2026-07-16: [Relaunching Labs](https://labs.thefocus.ai/dispatch/relaunching-labs/)
+ - 2026-07-16: [Introducing Labs](https://labs.thefocus.ai/dispatch/relaunching-labs/)
  - 2026-07-15: [What Surprised Us at the World's Fair](https://labs.thefocus.ai/dispatch/aie-worlds-fair-2026/)
  - 2026-05-22: [How AI in May 2026](https://labs.thefocus.ai/dispatch/how-ai-may-2026/)
  - 2026-05-12: [Which Open Model Should You Actually Run Locally?](https://labs.thefocus.ai/dispatch/local-providers-which-open-model/)
@@ -38,8 +38,8 @@
 
 ## Latest Focus Repo activity
 
- - 2026-07-17: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
- - 2026-07-17: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
+ - 2026-07-18: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
+ - 2026-07-18: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
  - 2026-07-17: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-07-16: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-07-16: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
