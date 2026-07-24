@@ -4,6 +4,7 @@
 
 ## Latest from labs.thefocus.ai
 
+ - 2026-07-24: [mattpocock/skills v1.1: coding with alignment surfaces](https://labs.thefocus.ai/dispatch/mattpocock-skills-v1-1/)
  - 2026-07-19: [Introducing Labs](https://labs.thefocus.ai/dispatch/relaunching-labs/)
  - 2026-07-15: [What Surprised Us at the World's Fair](https://labs.thefocus.ai/dispatch/aie-worlds-fair-2026/)
  - 2026-05-22: [How AI in May 2026](https://labs.thefocus.ai/dispatch/how-ai-may-2026/)
@@ -14,7 +15,6 @@
  - 2026-04-11: [Building an Intelligent Organization](https://labs.thefocus.ai/dispatch/building-an-intelligent-organization/)
  - 2026-04-04: [Gemma 4 on Your Machine: How Google’s New Open Weights Stack Up (Model Showdown)](https://labs.thefocus.ai/dispatch/gemma-4-umwelten-showdown/)
  - 2026-03-24: [Same Weights, Different Results](https://labs.thefocus.ai/dispatch/same-weights-different-results/)
- - 2026-03-15: [Can LLMs Use Real-World Tools? Mercury-2, ELO, and the Umwelten Setup](https://labs.thefocus.ai/dispatch/mcp-tool-eval-mercury-umwelten/)
 
 ## Our Claude Skills
 
@@ -39,7 +39,7 @@
 ## Latest Focus Repo activity
 
  - 2026-07-24: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
- - 2026-07-23: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
+ - 2026-07-24: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
  - 2026-07-23: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-07-23: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-07-16: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
