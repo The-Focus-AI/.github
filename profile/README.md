@@ -38,13 +38,13 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-07-27: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
  - 2026-07-27: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
+ - 2026-07-27: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
+ - 2026-07-27: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-07-26: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-07-26: [The-Focus-AI/usage-monitor](https://github.com/The-Focus-AI/usage-monitor) - Monitor OpenRouter API credits/usage and post alerts to Slack via GitHub Actions
- - 2026-07-26: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
- - 2026-07-26: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-07-16: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
- - 2026-07-14: [The-Focus-AI/youtube-feed](https://github.com/The-Focus-AI/youtube-feed) - YouTube channel archive with transcripts, summaries, and searchable topics
  - 2026-07-14: [The-Focus-AI/claude-marketplace](https://github.com/The-Focus-AI/claude-marketplace) - Claude Code marketplace with skills for Focus.AI integration, theming, and development workflows
  - 2026-07-14: [The-Focus-AI/google-skill](https://github.com/The-Focus-AI/google-skill) - Google services integration for Claude Code: Gmail, Calendar, Sheets, Docs, YouTube
  - 2026-07-13: [The-Focus-AI/twitter-agent](https://github.com/The-Focus-AI/twitter-agent) - Standalone umwelten agent — Twitter/X bookmarks, mentions & feed over a habitat A2A/MCP surface (cloned into a stock habitat)
