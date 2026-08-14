@@ -4,7 +4,6 @@
 
 ## Latest from labs.thefocus.ai
 
- - 2026-08-14: [whichllm: pick a local model that is actually fast](https://labs.thefocus.ai/dispatch/whichllm-speed-fast/)
  - 2026-08-04: [Where A2A Begins and Ends](https://labs.thefocus.ai/dispatch/where-a2a-begins-and-ends/)
  - 2026-07-30: [Agents Get a UI](https://labs.thefocus.ai/dispatch/agents-get-a-ui/)
  - 2026-07-24: [mattpocock/skills v1.1: coding with alignment surfaces](https://labs.thefocus.ai/dispatch/mattpocock-skills-v1-1/)
@@ -15,6 +14,7 @@
  - 2026-05-01: [Neural harness](https://labs.thefocus.ai/dispatch/neural-harness/)
  - 2026-04-25: [The Miami Report — two days at AI Engineer Miami](https://labs.thefocus.ai/dispatch/miami-report/)
  - 2026-04-14: [Laddering up from chatboxes to autonomy](https://labs.thefocus.ai/dispatch/laddering-up-from-chatboxes-to-autonomy/)
+ - 2026-04-11: [Building an Intelligent Organization](https://labs.thefocus.ai/dispatch/building-an-intelligent-organization/)
 
 ## Our Claude Skills
 
