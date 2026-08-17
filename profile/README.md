@@ -4,7 +4,7 @@
 
 ## Latest from labs.thefocus.ai
 
- - 2026-08-16: [Point Your Agent at llms.txt](https://labs.thefocus.ai/dispatch/point-your-agent-at-llms-txt/)
+ - 2026-08-17: [whichllm: pick a local model that is actually fast](https://labs.thefocus.ai/dispatch/whichllm-speed-fast/)
  - 2026-08-04: [Where A2A Begins and Ends](https://labs.thefocus.ai/dispatch/where-a2a-begins-and-ends/)
  - 2026-07-30: [Agents Get a UI](https://labs.thefocus.ai/dispatch/agents-get-a-ui/)
  - 2026-07-24: [mattpocock/skills v1.1: coding with alignment surfaces](https://labs.thefocus.ai/dispatch/mattpocock-skills-v1-1/)
@@ -39,8 +39,8 @@
 ## Latest Focus Repo activity
 
  - 2026-08-17: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
+ - 2026-08-17: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
  - 2026-08-17: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
- - 2026-08-16: [The-Focus-AI/labs](https://github.com/The-Focus-AI/labs) - TheFocus.AI Labs — thoughts, reports, recipes, and publication issues. Deployed to labs.thefocus.ai.
  - 2026-08-14: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-08-11: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
  - 2026-08-10: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
