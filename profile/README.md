@@ -43,6 +43,5 @@
  - 2026-08-31: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
  - 2026-08-29: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
  - 2026-08-27: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
- - 2026-08-03: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
