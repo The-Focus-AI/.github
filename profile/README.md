@@ -38,8 +38,8 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-09-26: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-09-25: [The-Focus-AI/qwen-image-2.1-mlx](https://github.com/The-Focus-AI/qwen-image-2.1-mlx) - Local Qwen-Image-2.1 text-to-image on Apple Silicon with mflux. On an M4 Max, 20 steps at 1024 takes about two minutes; --fast at 768 takes about 80 seconds.
- - 2026-09-25: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-09-23: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
  - 2026-09-21: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-09-20: [The-Focus-AI/thefocus-landing](https://github.com/The-Focus-AI/thefocus-landing) - Landing page for thefocus.ai
