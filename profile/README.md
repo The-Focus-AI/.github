@@ -45,6 +45,5 @@
  - 2026-10-12: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
  - 2026-09-25: [The-Focus-AI/qwen-image-2.1-mlx](https://github.com/The-Focus-AI/qwen-image-2.1-mlx) - Local Qwen-Image-2.1 text-to-image on Apple Silicon with mflux. On an M4 Max, 20 steps at 1024 takes about two minutes; --fast at 768 takes about 80 seconds.
  - 2026-09-23: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
- - 2026-09-17: [The-Focus-AI/twitter-agent](https://github.com/The-Focus-AI/twitter-agent) - Standalone umwelten agent — Twitter/X bookmarks, mentions & feed over a habitat A2A/MCP surface (cloned into a stock habitat)
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
