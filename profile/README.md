@@ -46,6 +46,5 @@
  - 2026-10-20: [The-Focus-AI/data-center-guesser](https://github.com/The-Focus-AI/data-center-guesser) - Satellite guessing game from TheFocus.AI: which building is the data center? Learn the cooling, power, and site tells that separate server halls from warehouses, offices, and fabs. Play at https://artifacts.thefocus.ai/a/hVefaAKoB0E/
  - 2026-10-14: [The-Focus-AI/brutism-gemini-4-test](https://github.com/The-Focus-AI/brutism-gemini-4-test) - Parametric brutalist city builder from TheFocus.AI: sculpt iconic béton brut buildings and run solar, circulation, wind, and structural simulations. https://artifacts.thefocus.ai/a/d8CcEPLzwbY/
  - 2026-09-25: [The-Focus-AI/qwen-image-2.1-mlx](https://github.com/The-Focus-AI/qwen-image-2.1-mlx) - Local Qwen-Image-2.1 text-to-image on Apple Silicon with mflux. On an M4 Max, 20 steps at 1024 takes about two minutes; --fast at 768 takes about 80 seconds.
- - 2026-09-23: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
