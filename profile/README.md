@@ -4,17 +4,17 @@
 
 ## Latest from labs.thefocus.ai
 
+ - 2026-11-11: [How AI in November 2026](https://labs.thefocus.ai/dispatch/how-ai-november-2026/)
+ - 2026-11-02: [New productive forces. New organizations?](https://labs.thefocus.ai/reports/new-quality-productive-forces/)
+ - 2026-09-20: [Jev: Judging, Not Calling Tools](https://labs.thefocus.ai/reports/jev-typed-judgments/)
+ - 2026-09-03: [Never Touch the Laptop: Running a Whole Project from Your Phone](https://labs.thefocus.ai/reports/phone-first-cloud-agents/)
  - 2026-08-17: [whichllm: pick a local model that is actually fast](https://labs.thefocus.ai/dispatch/whichllm-speed-fast/)
  - 2026-08-04: [Where A2A Begins and Ends](https://labs.thefocus.ai/dispatch/where-a2a-begins-and-ends/)
  - 2026-07-30: [Agents Get a UI](https://labs.thefocus.ai/dispatch/agents-get-a-ui/)
+ - 2026-07-26: [Conversation Roots, KV Reuse, and Local Agent Throughput](https://labs.thefocus.ai/reports/local-kv-reuse-for-agents/)
  - 2026-07-24: [mattpocock/skills v1.1: coding with alignment surfaces](https://labs.thefocus.ai/dispatch/mattpocock-skills-v1-1/)
  - 2026-07-19: [Introducing Labs](https://labs.thefocus.ai/dispatch/relaunching-labs/)
- - 2026-07-15: [What Surprised Us at the World's Fair](https://labs.thefocus.ai/dispatch/aie-worlds-fair-2026/)
- - 2026-05-22: [How AI in May 2026](https://labs.thefocus.ai/dispatch/how-ai-may-2026/)
- - 2026-05-12: [Which Open Model Should You Actually Run Locally?](https://labs.thefocus.ai/dispatch/local-providers-which-open-model/)
- - 2026-05-01: [Neural harness](https://labs.thefocus.ai/dispatch/neural-harness/)
- - 2026-04-25: [The Miami Report — two days at AI Engineer Miami](https://labs.thefocus.ai/dispatch/miami-report/)
- - 2026-04-14: [Laddering up from chatboxes to autonomy](https://labs.thefocus.ai/dispatch/laddering-up-from-chatboxes-to-autonomy/)
+ - 2026-07-15: [AI Engineer World's Fair 2026 — The Complete Talk Roundup](https://labs.thefocus.ai/reports/aie-worlds-fair-2026/)
 
 ## Our Claude Skills
 
@@ -38,6 +38,7 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-11-11: [The-Focus-AI/ai-engineer-code-2026-nov](https://github.com/The-Focus-AI/ai-engineer-code-2026-nov) - A live field guide to AI Engineer Code Summit 2026 (SF, Nov 10–12): schedule, recorded talks with Qwen transcripts, notes, stories, themes and speakers, kept current by an OpenProse pipeline.
  - 2026-11-11: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-11-10: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-11-09: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
