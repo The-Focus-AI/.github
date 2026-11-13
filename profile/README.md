@@ -38,8 +38,8 @@
 
 ## Latest Focus Repo activity
 
- - 2026-11-13: [The-Focus-AI/ai-engineer-code-2026-nov](https://github.com/The-Focus-AI/ai-engineer-code-2026-nov) - A live field guide to AI Engineer Code Summit 2026 (SF, Nov 10–12): schedule, recorded talks with Qwen transcripts, notes, stories, themes and speakers, kept current by an OpenProse pipeline.
  - 2026-11-13: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
+ - 2026-11-13: [The-Focus-AI/ai-engineer-code-2026-nov](https://github.com/The-Focus-AI/ai-engineer-code-2026-nov) - A live field guide to AI Engineer Code Summit 2026 (SF, Nov 10–12): schedule, recorded talks with Qwen transcripts, notes, stories, themes and speakers, kept current by an OpenProse pipeline.
  - 2026-11-12: [The-Focus-AI/gemmaembeddings](https://github.com/The-Focus-AI/gemmaembeddings) - Local EmbeddingGemma 2 multimodal benchmark lab & interactive SQLite (libSQL DiskANN + FTS5) playground
  - 2026-11-10: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-11-09: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
