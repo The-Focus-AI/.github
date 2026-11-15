@@ -4,17 +4,17 @@
 
 ## Latest from labs.thefocus.ai
 
+ - 2026-11-13: [The San Francisco Report — three days at AI Engineer Code Summit](https://labs.thefocus.ai/dispatch/san-francisco-report/)
  - 2026-11-12: [Full Multimodal Search Without the Data Leaving the Building](https://labs.thefocus.ai/reports/embeddinggemma-2-sqlite/)
  - 2026-11-11: [How AI in November 2026](https://labs.thefocus.ai/dispatch/how-ai-november-2026/)
  - 2026-11-02: [New productive forces. New organizations?](https://labs.thefocus.ai/reports/new-quality-productive-forces/)
+ - 2026-10-18: [The New York Report — three days at AI Engineer New York](https://labs.thefocus.ai/dispatch/new-york-report/)
  - 2026-09-20: [Jev: Judging, Not Calling Tools](https://labs.thefocus.ai/reports/jev-typed-judgments/)
  - 2026-09-03: [Never Touch the Laptop: Running a Whole Project from Your Phone](https://labs.thefocus.ai/reports/phone-first-cloud-agents/)
  - 2026-08-17: [whichllm: pick a local model that is actually fast](https://labs.thefocus.ai/dispatch/whichllm-speed-fast/)
  - 2026-08-04: [Where A2A Begins and Ends](https://labs.thefocus.ai/dispatch/where-a2a-begins-and-ends/)
  - 2026-07-30: [Agents Get a UI](https://labs.thefocus.ai/dispatch/agents-get-a-ui/)
  - 2026-07-26: [Conversation Roots, KV Reuse, and Local Agent Throughput](https://labs.thefocus.ai/reports/local-kv-reuse-for-agents/)
- - 2026-07-24: [mattpocock/skills v1.1: coding with alignment surfaces](https://labs.thefocus.ai/dispatch/mattpocock-skills-v1-1/)
- - 2026-07-19: [Introducing Labs](https://labs.thefocus.ai/dispatch/relaunching-labs/)
 
 ## Our Claude Skills
 
