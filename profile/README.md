@@ -38,6 +38,7 @@
 
 ## Latest Focus Repo activity
 
+ - 2026-11-17: [The-Focus-AI/session-spec-verify](https://github.com/The-Focus-AI/session-spec-verify) - Modular conceptual spec extraction, evidence-backed deployment verification, and protected external-standard refactoring skills for cold-rebuildable software.
  - 2026-11-15: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
  - 2026-11-15: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-11-14: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
