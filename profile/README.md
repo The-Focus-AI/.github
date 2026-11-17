@@ -4,6 +4,8 @@
 
 ## Latest from labs.thefocus.ai
 
+ - 2026-11-17: [Repeatable Site Demo Reels with Claude Code, webreel, and Remotion](https://labs.thefocus.ai/recipes/site-trailers-with-webreel/)
+ - 2026-11-16: [Practice leads to Theory](https://labs.thefocus.ai/dispatch/practice-leads-to-theory/)
  - 2026-11-13: [The San Francisco Report — three days at AI Engineer Code Summit](https://labs.thefocus.ai/dispatch/san-francisco-report/)
  - 2026-11-12: [Full Multimodal Search Without the Data Leaving the Building](https://labs.thefocus.ai/reports/embeddinggemma-2-sqlite/)
  - 2026-11-11: [How AI in November 2026](https://labs.thefocus.ai/dispatch/how-ai-november-2026/)
@@ -13,8 +15,6 @@
  - 2026-09-03: [Never Touch the Laptop: Running a Whole Project from Your Phone](https://labs.thefocus.ai/reports/phone-first-cloud-agents/)
  - 2026-08-17: [whichllm: pick a local model that is actually fast](https://labs.thefocus.ai/dispatch/whichllm-speed-fast/)
  - 2026-08-04: [Where A2A Begins and Ends](https://labs.thefocus.ai/dispatch/where-a2a-begins-and-ends/)
- - 2026-07-30: [Agents Get a UI](https://labs.thefocus.ai/dispatch/agents-get-a-ui/)
- - 2026-07-26: [Conversation Roots, KV Reuse, and Local Agent Throughput](https://labs.thefocus.ai/reports/local-kv-reuse-for-agents/)
 
 ## Our Claude Skills
 
