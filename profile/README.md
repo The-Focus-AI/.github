@@ -52,6 +52,5 @@
  - 2026-11-10: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-10-23: [The-Focus-AI/dsh-plugin-sidebar-workspace-names](https://github.com/The-Focus-AI/dsh-plugin-sidebar-workspace-names) - DeepSeek Harness sidebar plugin: shows the owning workspace name on a second line under each session title in the In one list view.
  - 2026-10-23: [The-Focus-AI/aranet4-bluetooth](https://github.com/The-Focus-AI/aranet4-bluetooth) - Aranet4 CO₂ monitor over Bluetooth LE — a Swift menu bar app and a Python CLI, plus the reverse-engineered BLE protocol
- - 2026-10-20: [The-Focus-AI/data-center-guesser](https://github.com/The-Focus-AI/data-center-guesser) - Satellite guessing game from TheFocus.AI: which building is the data center? Learn the cooling, power, and site tells that separate server halls from warehouses, offices, and fabs. Play at https://artifacts.thefocus.ai/a/hVefaAKoB0E/
 
 ![example workflow](https://github.com/The-Focus-AI/.github/actions/workflows/build.yml/badge.svg)
