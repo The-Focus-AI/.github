@@ -4,6 +4,7 @@
 
 ## Latest from labs.thefocus.ai
 
+ - 2026-11-21: [Why Gemini 4 Feels Different From Claude and GPT](https://labs.thefocus.ai/reports/why-gemini-feels-different/)
  - 2026-11-18: [Adapting Qwen 3.8 27B to the π Coding Harness on Apple Silicon](https://labs.thefocus.ai/lab/qwen-3-8-pi-harness/)
  - 2026-11-17: [Repeatable Site Demo Reels with Claude Code, webreel, and Remotion](https://labs.thefocus.ai/recipes/site-trailers-with-webreel/)
  - 2026-11-16: [Practice leads to Theory](https://labs.thefocus.ai/dispatch/practice-leads-to-theory/)
@@ -14,7 +15,6 @@
  - 2026-09-03: [Never Touch the Laptop: Running a Whole Project from Your Phone](https://labs.thefocus.ai/reports/phone-first-cloud-agents/)
  - 2026-08-17: [whichllm: pick a local model that is actually fast](https://labs.thefocus.ai/dispatch/whichllm-speed-fast/)
  - 2026-08-04: [Where A2A Begins and Ends](https://labs.thefocus.ai/dispatch/where-a2a-begins-and-ends/)
- - 2026-07-30: [Agents Get a UI](https://labs.thefocus.ai/dispatch/agents-get-a-ui/)
 
 ## Our Claude Skills
 
