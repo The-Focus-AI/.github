@@ -41,6 +41,7 @@
  - 2026-11-26: [The-Focus-AI/umwelten](https://github.com/The-Focus-AI/umwelten) - CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.
  - 2026-11-26: [The-Focus-AI/trmnl-image-agent](https://github.com/The-Focus-AI/trmnl-image-agent) - Generate and push custom images to TRMNL e-ink displays
  - 2026-11-26: [The-Focus-AI/blender-director](https://github.com/The-Focus-AI/blender-director) - Blender 5.3 director studio, parameterized physics/behavior modules, camera beat sequencer, and study-inspector agent skills (TheFocus.AI)
+ - 2026-11-26: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
  - 2026-11-25: [The-Focus-AI/session-spec-verify](https://github.com/The-Focus-AI/session-spec-verify) - Modular conceptual spec extraction, evidence-backed deployment verification, and protected external-standard refactoring skills for cold-rebuildable software.
  - 2026-11-22: [The-Focus-AI/2026-11-ai-engineer-code-summit](https://github.com/The-Focus-AI/2026-11-ai-engineer-code-summit) - A live field guide to AI Engineer Code Summit 2026 (SF, Nov 10–12): schedule, recorded talks with Qwen transcripts, notes, stories, themes and speakers, kept current by an OpenProse pipeline.
  - 2026-11-18: [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
@@ -48,7 +49,6 @@
  - 2026-11-18: [The-Focus-AI/2026-10-ai-engineer-nyc](https://github.com/The-Focus-AI/2026-10-ai-engineer-nyc) - Public archive of AI Engineer New York 2026 (Oct 12–14) by TheFocus.AI: 8 themes, 31 talk stories, stage slides & 176 verbatim claims — https://the-focus-ai.github.io/2026-10-ai-engineer-nyc/
  - 2026-11-18: [The-Focus-AI/conference-reporter](https://github.com/The-Focus-AI/conference-reporter) - Template for an agent-run conference notebook: notes, Voice Memos recordings (local Qwen3-ASR), photos and the schedule become evidence-backed talk stories, theme syntheses and a static site, driven by OpenProse contracts with signed receipts.
  - 2026-11-18: [The-Focus-AI/2025-11-ai-engineer-code-summit](https://github.com/The-Focus-AI/2025-11-ai-engineer-code-summit) - Notes, slides, and analysis from the AI Engineering Code Summit (November 20, 2025)
- - 2026-11-14: [The-Focus-AI/artifacts.thefocus.ai](https://github.com/The-Focus-AI/artifacts.thefocus.ai) - CLI-first Artifact publishing for TheFocus.AI.
  - 2026-11-14: [The-Focus-AI/walking-thoughts](https://github.com/The-Focus-AI/walking-thoughts) - 
  - 2026-11-12: [The-Focus-AI/gemmaembeddings](https://github.com/The-Focus-AI/gemmaembeddings) - Local EmbeddingGemma 2 multimodal benchmark lab & interactive SQLite (libSQL DiskANN + FTS5) playground
 
